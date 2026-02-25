@@ -1,0 +1,18 @@
+{
+  "protocol": "OvenBase",
+  "asset_count": 2,
+  "assets": [
+    {
+      "id": 1,
+      "name": "Genesis Asset",
+      "path": "/o/1",
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "name": "Genesis Test API",
+      "path": "/o/2",
+      "status": "active"
+    }
+  ]
+}
